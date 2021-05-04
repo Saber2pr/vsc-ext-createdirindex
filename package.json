@@ -1,10 +1,15 @@
 {
   "name": "createdirindex",
-	"displayName": "createDirIndex",
-	"description": "",
+	"displayName": "Create Dir Index",
+	"description": "creata index.ts file in the dir.",
 	"version": "0.0.1",
+	"publisher": "saber2pr",
 	"engines": {
 		"vscode": "^1.55.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Saber2pr/vsc-ext-createdirindex.git"
 	},
 	"categories": [
 		"Other"
