@@ -11,6 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Install Deps
+        run: yarn install
+
       - name: Publish VS Code Extension
         uses: HaaLeo/publish-vscode-extension@v1
         with:
