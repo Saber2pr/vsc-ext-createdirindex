@@ -2,7 +2,7 @@
 	"name": "createdirindex",
 	"displayName": "Create Dir Index",
 	"description": "create index.ts file in the dir.",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "saber2pr",
 	"engines": {
 		"vscode": "^1.56.0"
